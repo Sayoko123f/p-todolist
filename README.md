@@ -1,5 +1,5 @@
 # Todolist 待辦事項清單
-使用 Vue 3 和 Tailwindcss 
+使用 Vue 3 + Vite + Tailwindcss 建立的待辦事項清單，是一個 SPA 單頁應用，不會保留任何資料。
 
 ## Demo
 [Demo](https://sayoko123f.github.io/p-todolist/)
